@@ -1,6 +1,6 @@
-# netflix_ui
+# Netflix UI Mobile and Desktop
 
-A new Flutter application.
+Mobile and Desktop UI of the main page of Netflix
 
 ## Getting Started
 
